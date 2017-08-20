@@ -8,13 +8,27 @@ If you need an opensource project (such as for Hacktoberfest), check out these s
 
 # Anytime
 
-## 100 Days Of Code
+## 100 Days of Code
 
 **Learn more:** [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 
 Commit to writing code, an hour a day for 100 days. Whenever you choose to start is Day 1. Tweet about it, share it, post it on GitHub, inspire others to do the same.
 
 In keeping with the spirit of the original intent, if your day job is programming then it shouldn't be "work stuff".
+
+## 301 Days of Code
+
+**Learn more:** [301 Days of Code](http://301daysofcode.com)
+
+A hundred days not enough for you? Can't commit an hour every day, but you still want plenty of practice? Commit to nearly a year with the 301 days of code challenge.
+
+*"The only stipulation; code 3 minutes and 1 second per day for 301 days."*
+
+## Riddles.io - The Codesports Platform
+
+**Learn more:** [Riddles.io](https://www.riddles.io/faq/)
+
+Using the programming language of your choice, write bots to compete in a handful of competitions with other bots.
 
 # Time of Year
 
