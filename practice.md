@@ -12,9 +12,9 @@ This one is sort of a category. Werner Hett created 99 problems to help people l
 * [L-99: Ninety-Nine Lisp Problems](http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html)
 * [H-99: Ninety-Nine Haskell Problems](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
-## CheckiO
+## CheckiO / Empire of Code
 
-**Learn more:** [CheckiO](https://checkio.org/)
+**Learn more:** [CheckiO](https://checkio.org/), [Empire of Code](https://empireofcode.com/)
 
 **Languages:** JavaScript, Python
 
