@@ -16,6 +16,12 @@ In addition, they also work with companies to connect them with participants who
 
 "Keep your skills sharp by solving our challenges, or test your mettle against thousands of other engineers by joining a monthly tournament. Advance through skill levels while earning badges and XP for every win."
 
+## Codewars
+
+**Learn more:** [Codewars](https://www.codewars.com/)
+
+As near I can tell, anyone can sign up and either complete code katas in a given language, or create code katas for others to complete.
+
 ## CodinGame
 
 **Learn more:** [Contest Rules](https://www.codingame.com/rules)
