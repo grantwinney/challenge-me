@@ -46,6 +46,14 @@ You can find code katas all over the web - here's a site with a couple dozen. He
 
 Online programming exercises, which you can complete in a variety of languages, and are offered in various levels of difficulty, some timed and some not.
 
+## Codewars		
+		
+**Learn more:** [Codewars](https://www.codewars.com/)		
+		
+As near I can tell, anyone can sign up and either complete code katas in a given language, or create code katas for others to complete.
+
+Although there's a page for companies to purchase their service to help identify the right candidates, that seems to be completely separate from the challenges/katas, and it doesn't appear that the "candidates" refers to users of the site.
+ 
 ## Codingbat
 
 **Learn more:** [Codingbat](http://codingbat.com/about.html)
